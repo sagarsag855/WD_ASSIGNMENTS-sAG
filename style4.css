@@ -1,0 +1,27 @@
+h1{
+    color: blueviolet;
+}
+h2{
+    color: rgb(39, 233, 146);
+}
+
+.odd{
+    color: rgba(83, 139, 0, 0.474);
+}
+
+.even{
+    color:deeppink
+}
+
+#special{
+    color: rgb(135, 198, 71);
+    background-color: rgb(206, 206, 74);
+    transition: 4sec;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: rgb(225, 112, 135);
+}
+
+body{
+    background-image: url("https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRYQlWE2LICK3E5_UM6aluNC3fwK55s_M70vXSBtZYMqjKbq642QYS2y6w-QeFb-xfrIbezMpQVDOFftng")
+}
